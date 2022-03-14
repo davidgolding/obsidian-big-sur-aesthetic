@@ -173,7 +173,6 @@ html, body {
 }
 
 .nav-buttons-container {
-    height: 28px;
     padding: 0px 1px 0px 0px;
     justify-content: flex-end;
 }
